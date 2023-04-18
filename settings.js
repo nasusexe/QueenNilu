@@ -7,7 +7,7 @@ const chalk = require('chalk')
 */
 
 //Owner Number & Name 
-global.owner = ['905418691634'] //ur owner number
+global.owner = ['+905418691634'] //ur owner number
 global.ownername = "Janith sadanuwan" //ur owner name
 
 //Bot Name 
